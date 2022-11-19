@@ -2,6 +2,7 @@
   <div id="app">
     <ul>
       <li><router-link :to="{ name: 'DaVincisLock' }">다빈치의 자물쇠</router-link></li>
+      <li><router-link :to="{ name: 'BachelorsOfPisa' }">피사의 학사</router-link></li>
     </ul>
     <router-view/>
   </div>
