@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import DaVincisLock from '@/components/DaVincisLock'
 import BachelorsOfPisa from '@/components/BachelorsOfPisa'
 import CleverMerchant from '@/components/CleverMerchant'
+import LimaFestival from '@/components/LimaFestival'
 
 Vue.use(Router)
 
@@ -22,6 +23,11 @@ export default new Router({
       path: '/cleverMerchant',
       name: 'CleverMerchant',
       component: CleverMerchant
+    },
+    {
+      path: '/limaFestival',
+      name: 'LimaFestival',
+      component: LimaFestival
     }
   ]
 })
