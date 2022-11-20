@@ -5,7 +5,7 @@
       정답 검색 <input type="text" :value="answer" @input="onInputAnswer" />
       문제 검색 <input type="text" :value="question" @input="onInputQuestion" />
     </div>
-    <table style="width: 50%">
+    <table style="width: 80%">
       <thead>
         <th style="width: 20%">정답</th>
         <th style="width: 80%">문제</th>
