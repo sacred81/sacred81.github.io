@@ -91,7 +91,7 @@ export default {
 
       if (this.searchText) {
         summerData = this.filterWind(wind.summer, this.searchText);
-        winterData = this.filterWind(wind.summer, this.searchText);
+        winterData = this.filterWind(wind.winter, this.searchText);
       }
 
       this.summer = this.windToStr(summerData);
