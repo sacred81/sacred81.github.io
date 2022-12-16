@@ -4,6 +4,7 @@ import DaVincisLock from '@/components/DaVincisLock'
 import BachelorsOfPisa from '@/components/BachelorsOfPisa'
 import CleverMerchant from '@/components/CleverMerchant'
 import LimaFestival from '@/components/LimaFestival'
+import Explore from '@/components/Explore'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/limaFestival',
       name: 'LimaFestival',
       component: LimaFestival
+    },
+    {
+      path: '/explore',
+      name: 'Explore',
+      component: Explore
     }
   ]
 })
