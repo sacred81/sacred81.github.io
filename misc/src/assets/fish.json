@@ -1,0 +1,90 @@
+[
+  {
+    "location": "지중해",
+    "species": "꽁치, 청어, 갈치, 가자미"
+  },
+  {
+    "location": "북해",
+    "species": "연어, 청어, 낙연어, 곤들메기"
+  },
+  {
+    "location": "대서양",
+    "species": "연어, 청어, 대서양 샛멸, 대형 농어"
+  },
+  {
+    "location": "아프리카해",
+    "species": "고등어, 꽁치, 송어, 가자미"
+  },
+  {
+    "location": "나일강",
+    "species": "고등어, 꽁치, 나일틸라피아, 나일아로와나"
+  },
+  {
+    "location": "캐리비안해",
+    "species": "고등어, 청어, 송어, 대형 농어"
+  },
+  {
+    "location": "흑해",
+    "species": "꽁치, 청어, 철갑상어, 황새치"
+  },
+  {
+    "location": "아프리카 서해안",
+    "species": "고등어, 꽁치, 송어, 가자미"
+  },
+  {
+    "location": "모잠비크 해역",
+    "species": "고등어, 꽁치, 송어, 가자미"
+  },
+  {
+    "location": "홍해",
+    "species": "스내퍼, 살벤자리, 실버비디, 참바리"
+  },
+  {
+    "location": "아라비아해",
+    "species": "스내퍼, 살벤자리, 실버비디, 참바리"
+  },
+  {
+    "location": "뱅골만",
+    "species": ""
+  },
+  {
+    "location": "인도 서해안",
+    "species": ""
+  },
+  {
+    "location": "남미 동안",
+    "species": ""
+  },
+  {
+    "location": "말라카",
+    "species": ""
+  },
+  {
+    "location": "파나마만",
+    "species": ""
+  },
+  {
+    "location": "멕시코만",
+    "species": ""
+  },
+  {
+    "location": "말루쿠우타라",
+    "species": ""
+  },
+  {
+    "location": "자바해",
+    "species": ""
+  },
+  {
+    "location": "남오세아니아",
+    "species": "눈다랑어, 옐로우 그루퍼, 그레이 엔젤피쉬, 물퉁 도미"
+  },
+  {
+    "location": "태즈먼",
+    "species": "눈다랑어, 옐로우 그루퍼, 그레이 엔젤피쉬, 물퉁 도미"
+  },
+  {
+    "location": "칠레 해역",
+    "species": ""
+  }
+]

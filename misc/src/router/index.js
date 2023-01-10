@@ -5,6 +5,7 @@ import BachelorsOfPisa from '@/components/BachelorsOfPisa'
 import CleverMerchant from '@/components/CleverMerchant'
 import LimaFestival from '@/components/LimaFestival'
 import Explore from '@/components/Explore'
+import FishSpecies from '@/components/FishSpecies'
 
 Vue.use(Router)
 
@@ -34,6 +35,11 @@ export default new Router({
       path: '/explore',
       name: 'Explore',
       component: Explore
+    },
+    {
+      path: '/fishSpecies',
+      name: 'FishSpecies',
+      component: FishSpecies
     }
   ]
 })
